@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pickers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msgDate">Você escolheu a data</string>
+    <string name="chooseTime">Você escolheu o horário</string>
+</resources>
